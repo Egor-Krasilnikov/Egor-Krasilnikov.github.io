@@ -1,2 +1,2 @@
-# Rick-Sanchez2022.github.io
+# Egor-krasilnikov.github.io
 My site
